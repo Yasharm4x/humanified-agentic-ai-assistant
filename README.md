@@ -1,6 +1,5 @@
-# Humanified Agentic AI Assistant
-
-**TEAM - AGENTS GONE ROUGEt**
+Team **AGENTS GONE ROUGE** Presents 
+# Humanified Agentic AI Assistant 
 
 An agent-based AI assistant designed to improve learning and developer productivity through explainable, ethical, and modular AI agents.
 
